@@ -7,13 +7,13 @@ Researchers across the rapidly developing fields of data science, machine learni
 
 ### basal_anxiety_sleep_analysis.ipynb
 
-The core experiment of the talk, were I (Mariana) captured data of a (subjective) basal anxiogenic state (that is to say: evening, regular-day conditions) and compare it to a high anxiety period followed by sleep. Data is loaded from the data captured using [Mind Monitor program](https://mind-monitor.com/), analyzed both numerically and graphically, then to find interesting patterns that seem to follow the conclusions pointed out by [Pascalis et al](https://www.sciencedirect.com/science/article/abs/pii/S0191886919307354).
+The core experiment of the talk, were I (Mariana) captured data of a (subjectively) basal anxiogenic state (that is to say: evening, regular-day conditions) and compare it to a high anxiety period followed by sleep. Data is loaded from the data captured using [Mind Monitor program](https://mind-monitor.com/), analyzed both numerically and graphically, then to find interesting patterns that seem to follow the conclusions pointed out by [Pascalis et al. (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0191886919307354).
 
 This experiment was done using a [MUSE 2](https://choosemuse.com/muse-2/) headband, using Mind Monitor to capture information, with a data standard that was documented here following the Google Transit File Specification open data schema ([link in spanish](https://drive.google.com/open?id=1QzpmsojnnR2AkqqFXoCVqMAsCo54R9RhzmUjVa0fEFk)).
 
-### basal_anxiety_sleep_analysis-Commented.ipynb
+### load_experiment_data.ipynb
 
-Same file as described above, but with further comments.
+A small notebook that loads the experiment data, organized by folders.
 
 ### example_load_file.ipynb
 
